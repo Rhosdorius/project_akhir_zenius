@@ -1,0 +1,59 @@
+
+.batasGambar1{
+    width: 40%;
+    height: 40%;
+}
+
+.content{
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+    display: flex;
+}
+.m-40{
+    margin: 40px;
+    
+}
+.heading{
+    color: #f9fcfc;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+.subtitle{
+    color: #000000;
+    font-size: 30px;
+    
+}
+p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+#btn1{
+    background-color: #4BC5BB;
+    font-size: 20px ;
+    color: white;
+    padding: 10px;
+}
+#btn2{
+    background-color: #252525;
+    font-size: 20px ;
+    color: white;
+    padding: 10px;
+    margin-left:20px ;
+}
+hr{
+    width: 50px;
+    background-color: #000000;
+    height: 3px;
+    
+    margin-bottom: 20px;
+}
+i{
+    font-size: 50px;
+}
+
+.logo{
+    width: 40%;
+    font-size: 20px;    
+}
